@@ -54,7 +54,7 @@
 @property (nonatomic, assign) BOOL showAnimation;
 </pre>
 # 相关方法
-#pragma mark - version 1.0
+# pragma mark - version 1.0
 <pre>
 /**
  *  初始化 YFViewPager的方法
@@ -84,7 +84,7 @@
 - (void)didSelectedBlock:(SelectedBlock)block;
 </pre>
 
-#pragma mark - version 2.0
+# pragma mark - version 2.0
 <pre>
 /**
  *  初始化 YFViewPager的方法 也是目前使用的YFViewPager的唯一初始化api
